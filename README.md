@@ -23,8 +23,8 @@ For the electronics :
 Software
 --------
 
-The code has been cleaned from the actually deployed (and working) version but it is still very peculiar to my cases.
-That said, the virtual keyboard and riddle system can be reused. And the hardware-specific code is small enough to be replaced if need be
+The code has been cleaned from the actually deployed (and working) version but it is still very project related.
+That said, the virtual keyboard and riddle system can be reused. And the hardware-specific code is small enough to be replaced if need be.
 
 Licence
 -------
